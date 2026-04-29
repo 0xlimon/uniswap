@@ -1,0 +1,7 @@
+{
+  "name": "uniswap",
+  "version": "1.1.0",
+  "description": "uniswap fork",
+  "private": true,
+  "license": "MIT"
+}
